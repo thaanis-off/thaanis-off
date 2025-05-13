@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @thaanis-off
+- 👀 I’m interested in creating web pages using the MERN stack (MongoDB, Express, React, Node.js)
+- 🌱 I’m currently deepening my knowledge in Node.js and Express.js to build scalable backend applications
+- 💞️ I’m looking to collaborate on open-source web development projects, especially those involving full-stack JavaScript
+- 📫 How to reach me: thaanisoff@gmail.com or connect with me on LinkedIn: https://www.linkedin.com/in/mohamed-thaanis7422/
+- 😄 Pronouns: Him
+- ⚡ Fun fact: I love solving coding challenges and experimenting with new JavaScript libraries in my free time
