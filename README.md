@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [shopping-app](https://github.com/thaanis-off/shopping-app-ms)
 
-- 📝 I regularly write articles on [www.linkedin.com/in/mohamed-thaanis7422](www.linkedin.com/in/mohamed-thaanis7422)
+- 📝 I regularly write articles on [www.linkedin.com/in/mohamed-thaanis7422]
 
 - 💬 Ask me about **Anything about full-stack development**
 
